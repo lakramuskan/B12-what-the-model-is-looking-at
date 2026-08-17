@@ -90,3 +90,18 @@ The planned workflow is:
                       │
                       ▼
             Cricket Interpretation
+##  Team Members & Work Division
+
+The project is divided among four members so that each member has a
+clearly defined technical responsibility. All members will understand
+the complete project pipeline and will participate in testing,
+documentation and the final viva.
+
+| Member | Role | Primary Responsibilities |
+|---|---|---|
+| **Muskan** | Team Lead & Integration | Repository management, project coordination, integration with B1/B2, system integration, documentation |
+| **Pooja** | Data & EDA Lead | Dataset validation, data cleaning, preprocessing, exploratory data analysis and feature preparation |
+| **Kunal** | ML & Explainability Lead | Model development, SHAP implementation, feature importance and feature interaction analysis |
+| **Samarth** | Evaluation & Research Lead | Baseline, experiments, evaluation, statistical variability, failure analysis and literature review |
+
+---
