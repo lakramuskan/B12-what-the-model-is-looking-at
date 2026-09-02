@@ -99,7 +99,7 @@ documentation and the final viva.
 
 | Member | Role | Primary Responsibilities |
 |---|---|---|
-| **Muskan** | Team Lead & Integration | Repository management, project coordination, integration with B1/B2, system integration, documentation |
+| **Muskan** | Team Lead & Integration | Repository management, project coordination, integration with B1/B2, system integration, documentation, Research and literature review|
 | **Pooja** | Data & EDA Lead | Dataset validation, data cleaning, preprocessing, exploratory data analysis and feature preparation |
 | **Kunal** | ML & Explainability Lead | Model development, SHAP implementation, feature importance and feature interaction analysis |
 | **Samarth** | Evaluation & Research Lead | Baseline, experiments, evaluation, statistical variability, failure analysis and literature review |
