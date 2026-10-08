@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Evaluation Plan
 
 # Baseline
@@ -127,3 +128,16 @@ The evaluation will determine whether the prediction models provide stable and i
 The final analysis should answer the following question:
 
 Which factors drive the prediction at different stages of a T20 innings, how do their contributions change over time, and how reliable are these explanations?
+=======
+# Evaluation Plan (owner: Samarth)
+## Baseline
+Current run rate held flat to over 20, named and measured before the main model.
+## Protocol
+Split by match or series, never by ball. At least 10 seeds.
+## Reporting per experiment
+metric, average, best, worst, standard deviation, seed
+## Explanation checks
+Stability of SHAP rankings across seeds; cases where the explanation is misleading or error is large.
+## Log
+experiments.csv
+>>>>>>> 2a81f3b (Add B12 project)

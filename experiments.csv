@@ -1,0 +1,33 @@
+run_id,date,who,what_changed,main_metric,value,seed,notes
+R001,2026-10-07,Muskan,baseline flat run rate over 6,RMSE,34.37,0-9,std 1.02; best 33.00; worst 36.00; split by match
+R002,2026-10-07,Muskan,GBM V1_contract over 6,RMSE,20.96,0-9,std 1.12; best 19.31; worst 23.05; split by match
+R003,2026-10-07,Muskan,baseline flat run rate over 10,RMSE,25.34,0-9,std 0.38; best 24.65; worst 25.90; split by match
+R004,2026-10-07,Muskan,GBM V1_contract over 10,RMSE,18.22,0-9,std 0.53; best 17.43; worst 18.93; split by match
+R005,2026-10-07,Muskan,baseline flat run rate over 12,RMSE,22.07,0-9,std 0.55; best 21.40; worst 22.90; split by match
+R006,2026-10-07,Muskan,GBM V1_contract over 12,RMSE,16.45,0-9,std 0.75; best 15.38; worst 17.64; split by match
+R007,2026-10-07,Muskan,baseline flat run rate over 15,RMSE,17.68,0-9,std 0.62; best 16.68; worst 19.06; split by match
+R008,2026-10-07,Muskan,GBM V1_contract over 15,RMSE,13.71,0-9,std 0.62; best 12.76; worst 14.58; split by match
+R009,2026-10-07,Muskan,baseline flat run rate over 6,RMSE,34.37,0-9,std 1.02; best 33.00; worst 36.00; split by match
+R010,2026-10-07,Muskan,GBM V2_decollinear_momentum over 6,RMSE,20.74,0-9,std 1.19; best 19.14; worst 22.97; split by match
+R011,2026-10-07,Muskan,baseline flat run rate over 10,RMSE,25.34,0-9,std 0.38; best 24.65; worst 25.90; split by match
+R012,2026-10-07,Muskan,GBM V2_decollinear_momentum over 10,RMSE,18.24,0-9,std 0.66; best 17.22; worst 19.21; split by match
+R013,2026-10-07,Muskan,baseline flat run rate over 12,RMSE,22.07,0-9,std 0.55; best 21.40; worst 22.90; split by match
+R014,2026-10-07,Muskan,GBM V2_decollinear_momentum over 12,RMSE,16.49,0-9,std 0.56; best 15.45; worst 17.19; split by match
+R015,2026-10-07,Muskan,baseline flat run rate over 15,RMSE,17.68,0-9,std 0.62; best 16.68; worst 19.06; split by match
+R016,2026-10-07,Muskan,GBM V2_decollinear_momentum over 15,RMSE,13.75,0-9,std 0.62; best 12.91; worst 14.62; split by match
+R017,2026-10-08,Muskan,baseline flat run rate over 6,RMSE,34.37,0-9,std 1.02; best 33.00; worst 36.00; split by match
+R018,2026-10-08,Muskan,GBM V1_contract over 6,RMSE,20.96,0-9,std 1.12; best 19.32; worst 23.06; split by match
+R019,2026-10-08,Muskan,baseline flat run rate over 10,RMSE,25.34,0-9,std 0.38; best 24.65; worst 25.90; split by match
+R020,2026-10-08,Muskan,GBM V1_contract over 10,RMSE,18.22,0-9,std 0.54; best 17.43; worst 18.96; split by match
+R021,2026-10-08,Muskan,baseline flat run rate over 12,RMSE,22.07,0-9,std 0.55; best 21.40; worst 22.90; split by match
+R022,2026-10-08,Muskan,GBM V1_contract over 12,RMSE,16.45,0-9,std 0.75; best 15.38; worst 17.64; split by match
+R023,2026-10-08,Muskan,baseline flat run rate over 15,RMSE,17.68,0-9,std 0.62; best 16.68; worst 19.06; split by match
+R024,2026-10-08,Muskan,GBM V1_contract over 15,RMSE,13.71,0-9,std 0.63; best 12.72; worst 14.58; split by match
+R025,2026-10-08,Muskan,baseline flat run rate over 6,RMSE,34.37,0-9,std 1.02; best 33.00; worst 36.00; split by match
+R026,2026-10-08,Muskan,GBM V2_decollinear_momentum over 6,RMSE,20.75,0-9,std 1.20; best 19.14; worst 22.98; split by match
+R027,2026-10-08,Muskan,baseline flat run rate over 10,RMSE,25.34,0-9,std 0.38; best 24.65; worst 25.90; split by match
+R028,2026-10-08,Muskan,GBM V2_decollinear_momentum over 10,RMSE,18.25,0-9,std 0.65; best 17.15; worst 19.19; split by match
+R029,2026-10-08,Muskan,baseline flat run rate over 12,RMSE,22.07,0-9,std 0.55; best 21.40; worst 22.90; split by match
+R030,2026-10-08,Muskan,GBM V2_decollinear_momentum over 12,RMSE,16.48,0-9,std 0.56; best 15.46; worst 17.19; split by match
+R031,2026-10-08,Muskan,baseline flat run rate over 15,RMSE,17.68,0-9,std 0.62; best 16.68; worst 19.06; split by match
+R032,2026-10-08,Muskan,GBM V2_decollinear_momentum over 15,RMSE,13.75,0-9,std 0.62; best 12.91; worst 14.61; split by match

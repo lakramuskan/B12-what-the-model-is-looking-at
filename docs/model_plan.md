@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # B12 — Model and Explainability Plan
 
 ## 1. Objective
@@ -83,3 +84,16 @@ The main output of the B12 module will be:
 
 ```text
 results/feature_importance.csv
+=======
+# B12 Model Plan (owner: Kunal)
+## Objective
+Explain which factors drive the score prediction and how their importance changes during the innings.
+## Method
+SHAP (TreeExplainer if models are tree-based). importance = mean |SHAP|; direction = sign of correlation between feature value and SHAP value.
+## Checkpoints
+6, 10, 12, 15
+## Planned analysis
+1. Load checkpoint model 2. Prepare features 3. Compute SHAP 4. Aggregate importance 5. Determine direction 6. Compare across checkpoints 7. Find at least one interaction 8. Explain in cricket terms
+## Output
+results/feature_importance.csv
+>>>>>>> 2a81f3b (Add B12 project)

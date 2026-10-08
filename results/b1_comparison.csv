@@ -1,0 +1,4 @@
+predictor,rmse,mae,n_rows,rmse_gap_B1_minus_ours_95ci,b1_interval_coverage,b1_mean_interval_width
+B12 gradient boosting (out-of-fold),20.13,16.06,766,"[0.92, 2.04]",0.907,71.8
+B1 predicted_score,21.59,16.94,766,"[0.92, 2.04]",0.907,71.8
+flat run-rate baseline,33.45,26.97,766,"[0.92, 2.04]",0.907,71.8
